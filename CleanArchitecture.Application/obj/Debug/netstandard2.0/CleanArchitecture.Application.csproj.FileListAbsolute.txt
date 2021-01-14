@@ -1,0 +1,12 @@
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\bin\Debug\netstandard2.0\CleanArchitecture.Application.deps.json
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\bin\Debug\netstandard2.0\CleanArchitecture.Application.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\bin\Debug\netstandard2.0\CleanArchitecture.Core.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\bin\Debug\netstandard2.0\CleanArchitecture.Core.pdb
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.csprojAssemblyReference.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.AssemblyInfo.cs
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.csproj.CopyComplete
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\bin\Debug\netstandard2.0\CleanArchitecture.Application.pdb
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Application\obj\Debug\netstandard2.0\CleanArchitecture.Application.pdb

@@ -1,0 +1,14 @@
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Application.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Core.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Core.pdb
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.csprojAssemblyReference.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Infrastructure.deps.json
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Infrastructure.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Infrastructure.pdb
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\bin\Debug\netstandard2.0\CleanArchitecture.Application.pdb
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.dll
+E:\Company_Task\CleanArchitecture-Api\CleanArchitecture.Infrastructure\obj\Debug\netstandard2.0\CleanArchitecture.Infrastructure.pdb
